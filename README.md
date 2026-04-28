@@ -61,7 +61,7 @@ Hindi • Portuguese • Italian • Turkish • Russian • Japanese • Korean
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/unilingo.git
+git clone https://github.com/BROWNBOY047/unilingo.git
 cd unilingo
 ```
 
@@ -149,7 +149,7 @@ unilingo/
 ## 👨‍💻 Author
 
 **Muhammad Umer**
-- Building expertise in AI/LLMs + Cybersecurity
+- Building expertise in AI/LLMs 
 - This project is part of a 5-project LLM portfolio
 
 ---
