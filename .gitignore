@@ -1,1 +1,29 @@
+# API Keys — never upload these
+.env
+*.env
+secrets.txt
+keys.txt
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter notebooks (development only)
+*.ipynb
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
